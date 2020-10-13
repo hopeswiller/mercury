@@ -1,0 +1,2 @@
+# mercury
+flutter projects
